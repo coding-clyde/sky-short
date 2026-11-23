@@ -1,0 +1,30 @@
+{
+  "name": "sky-short",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "stills": "node scripts/sky-stills.mjs",
+    "render": "remotion render src/index.ts SkyShort out/sky/video.mp4 --codec h264 --crf 16 --scale 1.3333"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@react-three/postprocessing": "3.2.2",
+    "@remotion/bundler": "4.0.546",
+    "@remotion/cli": "4.0.546",
+    "@remotion/renderer": "4.0.546",
+    "@remotion/three": "4.0.546",
+    "postprocessing": "6.39.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.546",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@types/three": "0.181.0",
+    "typescript": "5.9.3"
+  }
+}

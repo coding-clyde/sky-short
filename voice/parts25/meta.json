@@ -1,0 +1,1379 @@
+[
+ {
+  "i": 0,
+  "text": "In 1869, a scientist made a sunset in a glass tube, and almost explained why the sky is blue.",
+  "dur": 5.664,
+  "words": [
+   {
+    "text": "In 1869",
+    "start": 0.1,
+    "dur": 1.02
+   },
+   {
+    "text": "a",
+    "start": 1.25,
+    "dur": 0.03
+   },
+   {
+    "text": "scientist",
+    "start": 1.29,
+    "dur": 0.46
+   },
+   {
+    "text": "made",
+    "start": 1.76,
+    "dur": 0.14
+   },
+   {
+    "text": "a",
+    "start": 1.91,
+    "dur": 0.04
+   },
+   {
+    "text": "sunset",
+    "start": 1.96,
+    "dur": 0.36
+   },
+   {
+    "text": "in",
+    "start": 2.33,
+    "dur": 0.06
+   },
+   {
+    "text": "a",
+    "start": 2.4,
+    "dur": 0.04
+   },
+   {
+    "text": "glass",
+    "start": 2.45,
+    "dur": 0.27
+   },
+   {
+    "text": "tube",
+    "start": 2.73,
+    "dur": 0.24
+   },
+   {
+    "text": "and",
+    "start": 3.14,
+    "dur": 0.09
+   },
+   {
+    "text": "almost",
+    "start": 3.24,
+    "dur": 0.28
+   },
+   {
+    "text": "explained",
+    "start": 3.53,
+    "dur": 0.39
+   },
+   {
+    "text": "why",
+    "start": 3.93,
+    "dur": 0.15
+   },
+   {
+    "text": "the",
+    "start": 4.09,
+    "dur": 0.08
+   },
+   {
+    "text": "sky",
+    "start": 4.18,
+    "dur": 0.28
+   },
+   {
+    "text": "is",
+    "start": 4.47,
+    "dur": 0.15
+   },
+   {
+    "text": "blue",
+    "start": 4.63,
+    "dur": 0.34
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "text": "London, 1869. John Tyndall is scrubbing the dust out of the air in his basement laboratory.",
+  "dur": 6.168,
+  "words": [
+   {
+    "text": "London",
+    "start": 0.1,
+    "dur": 0.43
+   },
+   {
+    "text": "1869",
+    "start": 0.69,
+    "dur": 0.97
+   },
+   {
+    "text": "John",
+    "start": 2.34,
+    "dur": 0.29
+   },
+   {
+    "text": "Tyndall",
+    "start": 2.64,
+    "dur": 0.32
+   },
+   {
+    "text": "is",
+    "start": 2.97,
+    "dur": 0.07
+   },
+   {
+    "text": "scrubbing",
+    "start": 3.05,
+    "dur": 0.3
+   },
+   {
+    "text": "the",
+    "start": 3.36,
+    "dur": 0.08
+   },
+   {
+    "text": "dust",
+    "start": 3.45,
+    "dur": 0.28
+   },
+   {
+    "text": "out",
+    "start": 3.74,
+    "dur": 0.14
+   },
+   {
+    "text": "of",
+    "start": 3.89,
+    "dur": 0.07
+   },
+   {
+    "text": "the",
+    "start": 3.97,
+    "dur": 0.12
+   },
+   {
+    "text": "air",
+    "start": 4.1,
+    "dur": 0.19
+   },
+   {
+    "text": "in",
+    "start": 4.3,
+    "dur": 0.17
+   },
+   {
+    "text": "his",
+    "start": 4.48,
+    "dur": 0.13
+   },
+   {
+    "text": "basement",
+    "start": 4.62,
+    "dur": 0.35
+   },
+   {
+    "text": "laboratory",
+    "start": 4.98,
+    "dur": 0.48
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "text": "He fills a glass tube with smoke and fires a beam of light through it.",
+  "dur": 3.528,
+  "words": [
+   {
+    "text": "He",
+    "start": 0.1,
+    "dur": 0.15
+   },
+   {
+    "text": "fills",
+    "start": 0.26,
+    "dur": 0.26
+   },
+   {
+    "text": "a",
+    "start": 0.53,
+    "dur": 0.05
+   },
+   {
+    "text": "glass",
+    "start": 0.59,
+    "dur": 0.27
+   },
+   {
+    "text": "tube",
+    "start": 0.87,
+    "dur": 0.18
+   },
+   {
+    "text": "with",
+    "start": 1.06,
+    "dur": 0.1
+   },
+   {
+    "text": "smoke",
+    "start": 1.17,
+    "dur": 0.29
+   },
+   {
+    "text": "and",
+    "start": 1.47,
+    "dur": 0.09
+   },
+   {
+    "text": "fires",
+    "start": 1.57,
+    "dur": 0.31
+   },
+   {
+    "text": "a",
+    "start": 1.89,
+    "dur": 0.05
+   },
+   {
+    "text": "beam",
+    "start": 1.95,
+    "dur": 0.19
+   },
+   {
+    "text": "of",
+    "start": 2.15,
+    "dur": 0.06
+   },
+   {
+    "text": "light",
+    "start": 2.22,
+    "dur": 0.22
+   },
+   {
+    "text": "through",
+    "start": 2.45,
+    "dur": 0.2
+   },
+   {
+    "text": "it",
+    "start": 2.66,
+    "dur": 0.19
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "text": "From the side, the beam glows blue. From the end, it comes out orange.",
+  "dur": 4.824,
+  "words": [
+   {
+    "text": "From",
+    "start": 0.1,
+    "dur": 0.2
+   },
+   {
+    "text": "the",
+    "start": 0.31,
+    "dur": 0.06
+   },
+   {
+    "text": "side",
+    "start": 0.38,
+    "dur": 0.36
+   },
+   {
+    "text": "the",
+    "start": 0.86,
+    "dur": 0.08
+   },
+   {
+    "text": "beam",
+    "start": 0.95,
+    "dur": 0.21
+   },
+   {
+    "text": "glows",
+    "start": 1.17,
+    "dur": 0.26
+   },
+   {
+    "text": "blue",
+    "start": 1.44,
+    "dur": 0.35
+   },
+   {
+    "text": "From",
+    "start": 2.47,
+    "dur": 0.21
+   },
+   {
+    "text": "the",
+    "start": 2.69,
+    "dur": 0.11
+   },
+   {
+    "text": "end",
+    "start": 2.81,
+    "dur": 0.22
+   },
+   {
+    "text": "it",
+    "start": 3.21,
+    "dur": 0.06
+   },
+   {
+    "text": "comes",
+    "start": 3.28,
+    "dur": 0.25
+   },
+   {
+    "text": "out",
+    "start": 3.54,
+    "dur": 0.15
+   },
+   {
+    "text": "orange",
+    "start": 3.7,
+    "dur": 0.42
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "text": "Outside his window, the real sky is blue, and the air is clear.",
+  "dur": 4.344,
+  "words": [
+   {
+    "text": "Outside",
+    "start": 0.1,
+    "dur": 0.43
+   },
+   {
+    "text": "his",
+    "start": 0.54,
+    "dur": 0.14
+   },
+   {
+    "text": "window",
+    "start": 0.69,
+    "dur": 0.38
+   },
+   {
+    "text": "the",
+    "start": 1.27,
+    "dur": 0.07
+   },
+   {
+    "text": "real",
+    "start": 1.35,
+    "dur": 0.26
+   },
+   {
+    "text": "sky",
+    "start": 1.62,
+    "dur": 0.28
+   },
+   {
+    "text": "is",
+    "start": 1.91,
+    "dur": 0.17
+   },
+   {
+    "text": "blue",
+    "start": 2.09,
+    "dur": 0.32
+   },
+   {
+    "text": "and",
+    "start": 2.64,
+    "dur": 0.09
+   },
+   {
+    "text": "the",
+    "start": 2.74,
+    "dur": 0.13
+   },
+   {
+    "text": "air",
+    "start": 2.88,
+    "dur": 0.2
+   },
+   {
+    "text": "is",
+    "start": 3.09,
+    "dur": 0.15
+   },
+   {
+    "text": "clear",
+    "start": 3.25,
+    "dur": 0.4
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "text": "One problem: the real sky has no smoke in it.",
+  "dur": 3.168,
+  "words": [
+   {
+    "text": "One",
+    "start": 0.1,
+    "dur": 0.24
+   },
+   {
+    "text": "problem",
+    "start": 0.35,
+    "dur": 0.31
+   },
+   {
+    "text": "the",
+    "start": 0.85,
+    "dur": 0.08
+   },
+   {
+    "text": "real",
+    "start": 0.94,
+    "dur": 0.28
+   },
+   {
+    "text": "sky",
+    "start": 1.23,
+    "dur": 0.28
+   },
+   {
+    "text": "has",
+    "start": 1.52,
+    "dur": 0.17
+   },
+   {
+    "text": "no",
+    "start": 1.7,
+    "dur": 0.21
+   },
+   {
+    "text": "smoke",
+    "start": 1.92,
+    "dur": 0.29
+   },
+   {
+    "text": "in",
+    "start": 2.22,
+    "dur": 0.07
+   },
+   {
+    "text": "it",
+    "start": 2.3,
+    "dur": 0.17
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "text": "Luckily, the colours were right. Unluckily, the reason was wrong.",
+  "dur": 4.584,
+  "words": [
+   {
+    "text": "Luckily",
+    "start": 0.1,
+    "dur": 0.45
+   },
+   {
+    "text": "the",
+    "start": 0.72,
+    "dur": 0.07
+   },
+   {
+    "text": "colours",
+    "start": 0.8,
+    "dur": 0.27
+   },
+   {
+    "text": "were",
+    "start": 1.08,
+    "dur": 0.11
+   },
+   {
+    "text": "right",
+    "start": 1.2,
+    "dur": 0.39
+   },
+   {
+    "text": "Unluckily",
+    "start": 2.27,
+    "dur": 0.49
+   },
+   {
+    "text": "the",
+    "start": 2.9,
+    "dur": 0.09
+   },
+   {
+    "text": "reason",
+    "start": 3.0,
+    "dur": 0.31
+   },
+   {
+    "text": "was",
+    "start": 3.32,
+    "dur": 0.14
+   },
+   {
+    "text": "wrong",
+    "start": 3.47,
+    "dur": 0.41
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "text": "You see, smoke particles are big and lumpy. Air molecules are a thousand times smaller, and tiny obstacles scatter short waves far more than long ones.",
+  "dur": 8.4,
+  "words": [
+   {
+    "text": "You",
+    "start": 0.1,
+    "dur": 0.15
+   },
+   {
+    "text": "see",
+    "start": 0.26,
+    "dur": 0.3
+   },
+   {
+    "text": "smoke",
+    "start": 0.72,
+    "dur": 0.27
+   },
+   {
+    "text": "particles",
+    "start": 1.0,
+    "dur": 0.49
+   },
+   {
+    "text": "are",
+    "start": 1.5,
+    "dur": 0.08
+   },
+   {
+    "text": "big",
+    "start": 1.59,
+    "dur": 0.23
+   },
+   {
+    "text": "and",
+    "start": 1.83,
+    "dur": 0.09
+   },
+   {
+    "text": "lumpy",
+    "start": 1.93,
+    "dur": 0.32
+   },
+   {
+    "text": "Air",
+    "start": 2.93,
+    "dur": 0.16
+   },
+   {
+    "text": "molecules",
+    "start": 3.1,
+    "dur": 0.47
+   },
+   {
+    "text": "are",
+    "start": 3.58,
+    "dur": 0.09
+   },
+   {
+    "text": "a",
+    "start": 3.68,
+    "dur": 0.05
+   },
+   {
+    "text": "thousand",
+    "start": 3.74,
+    "dur": 0.39
+   },
+   {
+    "text": "times",
+    "start": 4.14,
+    "dur": 0.27
+   },
+   {
+    "text": "smaller",
+    "start": 4.42,
+    "dur": 0.37
+   },
+   {
+    "text": "and",
+    "start": 4.96,
+    "dur": 0.1
+   },
+   {
+    "text": "tiny",
+    "start": 5.07,
+    "dur": 0.28
+   },
+   {
+    "text": "obstacles",
+    "start": 5.36,
+    "dur": 0.44
+   },
+   {
+    "text": "scatter",
+    "start": 5.81,
+    "dur": 0.28
+   },
+   {
+    "text": "short",
+    "start": 6.1,
+    "dur": 0.24
+   },
+   {
+    "text": "waves",
+    "start": 6.35,
+    "dur": 0.27
+   },
+   {
+    "text": "far",
+    "start": 6.63,
+    "dur": 0.17
+   },
+   {
+    "text": "more",
+    "start": 6.81,
+    "dur": 0.15
+   },
+   {
+    "text": "than",
+    "start": 6.97,
+    "dur": 0.12
+   },
+   {
+    "text": "long",
+    "start": 7.1,
+    "dur": 0.18
+   },
+   {
+    "text": "ones",
+    "start": 7.29,
+    "dur": 0.42
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "text": "Blue is scattered about six times more than red.",
+  "dur": 2.88,
+  "words": [
+   {
+    "text": "Blue",
+    "start": 0.1,
+    "dur": 0.29
+   },
+   {
+    "text": "is",
+    "start": 0.4,
+    "dur": 0.12
+   },
+   {
+    "text": "scattered",
+    "start": 0.53,
+    "dur": 0.31
+   },
+   {
+    "text": "about",
+    "start": 0.85,
+    "dur": 0.22
+   },
+   {
+    "text": "six",
+    "start": 1.08,
+    "dur": 0.23
+   },
+   {
+    "text": "times",
+    "start": 1.32,
+    "dur": 0.28
+   },
+   {
+    "text": "more",
+    "start": 1.61,
+    "dur": 0.12
+   },
+   {
+    "text": "than",
+    "start": 1.74,
+    "dur": 0.13
+   },
+   {
+    "text": "red",
+    "start": 1.88,
+    "dur": 0.3
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "text": "Think of a speed bump: a bicycle feels every bump; a truck rolls straight over them. Blue is the bicycle; red is the truck.",
+  "dur": 7.104,
+  "words": [
+   {
+    "text": "Think",
+    "start": 0.1,
+    "dur": 0.25
+   },
+   {
+    "text": "of",
+    "start": 0.36,
+    "dur": 0.06
+   },
+   {
+    "text": "a",
+    "start": 0.43,
+    "dur": 0.05
+   },
+   {
+    "text": "speed",
+    "start": 0.49,
+    "dur": 0.29
+   },
+   {
+    "text": "bump",
+    "start": 0.79,
+    "dur": 0.23
+   },
+   {
+    "text": "a",
+    "start": 1.18,
+    "dur": 0.05
+   },
+   {
+    "text": "bicycle",
+    "start": 1.24,
+    "dur": 0.41
+   },
+   {
+    "text": "feels",
+    "start": 1.66,
+    "dur": 0.31
+   },
+   {
+    "text": "every",
+    "start": 1.98,
+    "dur": 0.19
+   },
+   {
+    "text": "bump",
+    "start": 2.18,
+    "dur": 0.28
+   },
+   {
+    "text": "a",
+    "start": 2.61,
+    "dur": 0.04
+   },
+   {
+    "text": "truck",
+    "start": 2.66,
+    "dur": 0.23
+   },
+   {
+    "text": "rolls",
+    "start": 2.9,
+    "dur": 0.28
+   },
+   {
+    "text": "straight",
+    "start": 3.19,
+    "dur": 0.3
+   },
+   {
+    "text": "over",
+    "start": 3.5,
+    "dur": 0.18
+   },
+   {
+    "text": "them",
+    "start": 3.69,
+    "dur": 0.23
+   },
+   {
+    "text": "Blue",
+    "start": 4.6,
+    "dur": 0.29
+   },
+   {
+    "text": "is",
+    "start": 4.9,
+    "dur": 0.12
+   },
+   {
+    "text": "the",
+    "start": 5.03,
+    "dur": 0.08
+   },
+   {
+    "text": "bicycle",
+    "start": 5.12,
+    "dur": 0.44
+   },
+   {
+    "text": "red",
+    "start": 5.68,
+    "dur": 0.19
+   },
+   {
+    "text": "is",
+    "start": 5.88,
+    "dur": 0.09
+   },
+   {
+    "text": "the",
+    "start": 5.98,
+    "dur": 0.07
+   },
+   {
+    "text": "truck",
+    "start": 6.06,
+    "dur": 0.34
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "text": "At noon, blue light bounces across the whole sky and into your eye from every direction.",
+  "dur": 4.56,
+  "words": [
+   {
+    "text": "At",
+    "start": 0.1,
+    "dur": 0.18
+   },
+   {
+    "text": "noon",
+    "start": 0.29,
+    "dur": 0.29
+   },
+   {
+    "text": "blue",
+    "start": 0.67,
+    "dur": 0.2
+   },
+   {
+    "text": "light",
+    "start": 0.88,
+    "dur": 0.24
+   },
+   {
+    "text": "bounces",
+    "start": 1.13,
+    "dur": 0.35
+   },
+   {
+    "text": "across",
+    "start": 1.49,
+    "dur": 0.27
+   },
+   {
+    "text": "the",
+    "start": 1.77,
+    "dur": 0.06
+   },
+   {
+    "text": "whole",
+    "start": 1.84,
+    "dur": 0.22
+   },
+   {
+    "text": "sky",
+    "start": 2.07,
+    "dur": 0.27
+   },
+   {
+    "text": "and",
+    "start": 2.35,
+    "dur": 0.12
+   },
+   {
+    "text": "into",
+    "start": 2.48,
+    "dur": 0.21
+   },
+   {
+    "text": "your",
+    "start": 2.7,
+    "dur": 0.18
+   },
+   {
+    "text": "eye",
+    "start": 2.89,
+    "dur": 0.16
+   },
+   {
+    "text": "from",
+    "start": 3.06,
+    "dur": 0.16
+   },
+   {
+    "text": "every",
+    "start": 3.23,
+    "dur": 0.18
+   },
+   {
+    "text": "direction",
+    "start": 3.42,
+    "dur": 0.46
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "text": "At sunset, sunlight cuts through thirty-eight times more air, the blue is scattered away, and red comes through.",
+  "dur": 5.856,
+  "words": [
+   {
+    "text": "At",
+    "start": 0.1,
+    "dur": 0.18
+   },
+   {
+    "text": "sunset",
+    "start": 0.29,
+    "dur": 0.4
+   },
+   {
+    "text": "sunlight",
+    "start": 0.84,
+    "dur": 0.35
+   },
+   {
+    "text": "cuts",
+    "start": 1.2,
+    "dur": 0.24
+   },
+   {
+    "text": "through",
+    "start": 1.45,
+    "dur": 0.18
+   },
+   {
+    "text": "thirty-eight",
+    "start": 1.64,
+    "dur": 0.44
+   },
+   {
+    "text": "times",
+    "start": 2.09,
+    "dur": 0.3
+   },
+   {
+    "text": "more",
+    "start": 2.4,
+    "dur": 0.21
+   },
+   {
+    "text": "air",
+    "start": 2.62,
+    "dur": 0.18
+   },
+   {
+    "text": "the",
+    "start": 2.94,
+    "dur": 0.08
+   },
+   {
+    "text": "blue",
+    "start": 3.03,
+    "dur": 0.24
+   },
+   {
+    "text": "is",
+    "start": 3.28,
+    "dur": 0.12
+   },
+   {
+    "text": "scattered",
+    "start": 3.41,
+    "dur": 0.31
+   },
+   {
+    "text": "away",
+    "start": 3.73,
+    "dur": 0.3
+   },
+   {
+    "text": "and",
+    "start": 4.25,
+    "dur": 0.12
+   },
+   {
+    "text": "red",
+    "start": 4.38,
+    "dur": 0.19
+   },
+   {
+    "text": "comes",
+    "start": 4.58,
+    "dur": 0.27
+   },
+   {
+    "text": "through",
+    "start": 4.86,
+    "dur": 0.31
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "text": "Two years later, a young Englishman named John Strutt \u2014 the future Lord Rayleigh \u2014 did the maths and showed the air itself could do it.",
+  "dur": 6.672,
+  "words": [
+   {
+    "text": "Two",
+    "start": 0.1,
+    "dur": 0.21
+   },
+   {
+    "text": "years",
+    "start": 0.32,
+    "dur": 0.25
+   },
+   {
+    "text": "later",
+    "start": 0.58,
+    "dur": 0.29
+   },
+   {
+    "text": "a",
+    "start": 1.08,
+    "dur": 0.03
+   },
+   {
+    "text": "young",
+    "start": 1.12,
+    "dur": 0.22
+   },
+   {
+    "text": "Englishman",
+    "start": 1.35,
+    "dur": 0.4
+   },
+   {
+    "text": "named",
+    "start": 1.76,
+    "dur": 0.23
+   },
+   {
+    "text": "John",
+    "start": 2.0,
+    "dur": 0.22
+   },
+   {
+    "text": "Strutt",
+    "start": 2.23,
+    "dur": 0.31
+   },
+   {
+    "text": "the",
+    "start": 2.7,
+    "dur": 0.07
+   },
+   {
+    "text": "future",
+    "start": 2.78,
+    "dur": 0.31
+   },
+   {
+    "text": "Lord",
+    "start": 3.1,
+    "dur": 0.23
+   },
+   {
+    "text": "Rayleigh",
+    "start": 3.34,
+    "dur": 0.33
+   },
+   {
+    "text": "did",
+    "start": 3.87,
+    "dur": 0.13
+   },
+   {
+    "text": "the",
+    "start": 4.01,
+    "dur": 0.06
+   },
+   {
+    "text": "maths",
+    "start": 4.08,
+    "dur": 0.33
+   },
+   {
+    "text": "and",
+    "start": 4.42,
+    "dur": 0.08
+   },
+   {
+    "text": "showed",
+    "start": 4.51,
+    "dur": 0.24
+   },
+   {
+    "text": "the",
+    "start": 4.76,
+    "dur": 0.12
+   },
+   {
+    "text": "air",
+    "start": 4.89,
+    "dur": 0.13
+   },
+   {
+    "text": "itself",
+    "start": 5.03,
+    "dur": 0.41
+   },
+   {
+    "text": "could",
+    "start": 5.45,
+    "dur": 0.16
+   },
+   {
+    "text": "do",
+    "start": 5.62,
+    "dur": 0.16
+   },
+   {
+    "text": "it",
+    "start": 5.79,
+    "dur": 0.2
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "text": "The rule is called Rayleigh scattering. It explains why the Moon's sky is black and why Mars's sky is butterscotch.",
+  "dur": 6.48,
+  "words": [
+   {
+    "text": "The",
+    "start": 0.1,
+    "dur": 0.13
+   },
+   {
+    "text": "rule",
+    "start": 0.24,
+    "dur": 0.28
+   },
+   {
+    "text": "is",
+    "start": 0.53,
+    "dur": 0.08
+   },
+   {
+    "text": "called",
+    "start": 0.62,
+    "dur": 0.23
+   },
+   {
+    "text": "Rayleigh",
+    "start": 0.86,
+    "dur": 0.26
+   },
+   {
+    "text": "scattering",
+    "start": 1.13,
+    "dur": 0.54
+   },
+   {
+    "text": "It",
+    "start": 2.35,
+    "dur": 0.16
+   },
+   {
+    "text": "explains",
+    "start": 2.52,
+    "dur": 0.4
+   },
+   {
+    "text": "why",
+    "start": 2.93,
+    "dur": 0.16
+   },
+   {
+    "text": "the",
+    "start": 3.1,
+    "dur": 0.08
+   },
+   {
+    "text": "Moon's",
+    "start": 3.19,
+    "dur": 0.27
+   },
+   {
+    "text": "sky",
+    "start": 3.47,
+    "dur": 0.22
+   },
+   {
+    "text": "is",
+    "start": 3.7,
+    "dur": 0.15
+   },
+   {
+    "text": "black",
+    "start": 3.86,
+    "dur": 0.24
+   },
+   {
+    "text": "and",
+    "start": 4.11,
+    "dur": 0.08
+   },
+   {
+    "text": "why",
+    "start": 4.2,
+    "dur": 0.18
+   },
+   {
+    "text": "Mars's",
+    "start": 4.39,
+    "dur": 0.32
+   },
+   {
+    "text": "sky",
+    "start": 4.72,
+    "dur": 0.24
+   },
+   {
+    "text": "is",
+    "start": 4.97,
+    "dur": 0.15
+   },
+   {
+    "text": "butterscotch",
+    "start": 5.13,
+    "dur": 0.65
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "text": "So the sky is blue because the air is stealing the blue from the sun.",
+  "dur": 3.624,
+  "words": [
+   {
+    "text": "So",
+    "start": 0.1,
+    "dur": 0.16
+   },
+   {
+    "text": "the",
+    "start": 0.27,
+    "dur": 0.07
+   },
+   {
+    "text": "sky",
+    "start": 0.35,
+    "dur": 0.26
+   },
+   {
+    "text": "is",
+    "start": 0.62,
+    "dur": 0.17
+   },
+   {
+    "text": "blue",
+    "start": 0.8,
+    "dur": 0.25
+   },
+   {
+    "text": "because",
+    "start": 1.06,
+    "dur": 0.2
+   },
+   {
+    "text": "the",
+    "start": 1.27,
+    "dur": 0.11
+   },
+   {
+    "text": "air",
+    "start": 1.39,
+    "dur": 0.15
+   },
+   {
+    "text": "is",
+    "start": 1.55,
+    "dur": 0.16
+   },
+   {
+    "text": "stealing",
+    "start": 1.72,
+    "dur": 0.31
+   },
+   {
+    "text": "the",
+    "start": 2.04,
+    "dur": 0.08
+   },
+   {
+    "text": "blue",
+    "start": 2.13,
+    "dur": 0.26
+   },
+   {
+    "text": "from",
+    "start": 2.4,
+    "dur": 0.14
+   },
+   {
+    "text": "the",
+    "start": 2.55,
+    "dur": 0.05
+   },
+   {
+    "text": "sun.",
+    "start": 2.61,
+    "dur": 0.32
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "text": "The sunset is the receipt.",
+  "dur": 1.968,
+  "words": [
+   {
+    "text": "The",
+    "start": 0.1,
+    "dur": 0.14
+   },
+   {
+    "text": "sunset",
+    "start": 0.25,
+    "dur": 0.4
+   },
+   {
+    "text": "is",
+    "start": 0.66,
+    "dur": 0.1
+   },
+   {
+    "text": "the",
+    "start": 0.77,
+    "dur": 0.07
+   },
+   {
+    "text": "receipt",
+    "start": 0.85,
+    "dur": 0.44
+   }
+  ]
+ }
+]

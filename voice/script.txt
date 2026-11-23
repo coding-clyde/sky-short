@@ -1,0 +1,16 @@
+In 1869, a scientist made a sunset in a glass tube, and almost explained why the sky is blue.
+London, 1869. John Tyndall is scrubbing the dust out of the air in his basement laboratory.
+He fills a glass tube with smoke and fires a beam of light through it.
+From the side, the beam glows blue. From the end, it comes out orange.
+Outside his window, the real sky is blue, and the air is clear.
+One problem: the real sky has no smoke in it.
+Luckily, the colours were right. Unluckily, the reason was wrong.
+You see, smoke particles are big and lumpy. Air molecules are a thousand times smaller, and tiny obstacles scatter short waves far more than long ones.
+Blue is scattered about six times more than red.
+Think of a speed bump: a bicycle feels every bump; a truck rolls straight over them. Blue is the bicycle; red is the truck.
+At noon, blue light bounces across the whole sky and into your eye from every direction.
+At sunset, sunlight cuts through thirty-eight times more air, the blue is scattered away, and red comes through.
+Two years later, a young Englishman named John Strutt — the future Lord Rayleigh — did the maths and showed the air itself could do it.
+The rule is called Rayleigh scattering. It explains why the Moon's sky is black and why Mars's sky is butterscotch.
+So the sky is blue because the air is stealing the blue from the sun.
+The sunset is the receipt.
